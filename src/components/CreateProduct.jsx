@@ -26,7 +26,8 @@ export default function CreateProduct() {
     // Send to backend API here
   };
 
-  return (
+   return (
+    //<h1>Product page</h1>
     <div className="min-h-screen bg-gray-100 p-6">
       <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-2xl p-8">
         <h2 className="text-2xl font-bold mb-6 text-gray-800">
